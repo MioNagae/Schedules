@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  startday: 2023-11-23
+  finishday: 2023-11-23
+  allday: MyString
+  updated_at: 2023-11-23 12:13:56
+
+two:
+  title: MyString
+  startday: 2023-11-23
+  finishday: 2023-11-23
+  allday: MyString
+  updated_at: 2023-11-23 12:13:56
